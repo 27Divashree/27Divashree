@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divashree Agarwal</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Generative AI**
 
 - 🤝 I’m looking for help with **Sentiment Analysis on Text Generated from Image**
 
