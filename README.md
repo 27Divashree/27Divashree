@@ -2,11 +2,8 @@
 <h3 align="center">A passionate programmer from India</h3>
 
 - 🌱 I’m currently learning **Generative AI**
-
-- 🤝 I’m looking for help with **Sentiment Analysis on Text Generated from Image**
-
 - 💬 Ask me about **ML**
-
+- 👩🏻‍💻I specialize in **C++** programming and have 3 years of experience working with this powerful and versatile language
 - 📫 How to reach me **divashree.ag@gmail.com**
 - 🔗Portfolio: https://27divashree.github.io/Divashree-Agarwal/
 
