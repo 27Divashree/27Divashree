@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 - 💬 Ask me about **ML**
-- 👩🏻‍💻I specialize in **C++** programming and have 3 years of experience working with this powerful and versatile language
+- 👩🏻‍💻I specialize in **C++** programming and have 1.5 years of experience working with this powerful and versatile language
 - 📫 How to reach me **divashree.ag@gmail.com**
 - 🔗Portfolio: https://27divashree.github.io/Divashree-Agarwal/
 
